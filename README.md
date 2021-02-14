@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RushiModi
 - 👀 I’m interested in Software Engineering, Astronomy, and sports. 
 - 🌱 I’m currently a software developer who loves to learn new skills and increase my knowledge base. 
-     if(Knowledge)
+       if(Knowledge)
       { 
         return Power;
       }
