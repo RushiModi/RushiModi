@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RushiModi
+- 👋 Hi, I’m @Rushi
 - 👀 I’m interested in Software Engineering, Astronomy, and sports. 
 - 🌱 I’m currently a software developer who loves to learn new skills and increase my knowledge base. 
        if(Knowledge)
